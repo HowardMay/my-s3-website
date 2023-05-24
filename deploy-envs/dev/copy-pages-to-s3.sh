@@ -1,0 +1,1 @@
+aws s3 sync ../../static-pages s3://dev.my-s3-website.howard-may.click --delete
